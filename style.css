@@ -42,3 +42,8 @@ footer {
     background: #4B0082; /* violet foncé */
     color: white;
 }
+.photo {
+    width: 120px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
