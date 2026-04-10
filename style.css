@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #4B0082; /* violet foncé */
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #8A2BE2; /* violet */
+    color: white;
+}
+
+.sae {
+    padding: 30px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #4B0082; /* violet foncé */
+    color: white;
+}
